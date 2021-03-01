@@ -1,0 +1,83 @@
+.first-section{
+    width: 100%;
+    height: 100%
+}
+
+.intro-text {
+    margin-top: 8rem;
+}
+
+.intro-text h1 {
+    font-size: 2.625rem;
+    font-weight: bold;
+    color: var(--main-color);
+    letter-spacing: 0.06em;
+
+    margin-bottom: 1rem;
+}
+
+.intro-text p {
+    max-width: 17.5rem;
+
+    font-size: 1.5rem;
+    line-height: 2.06rem;
+}
+
+.line {
+    background: var(--main-color);
+    width: 6.25rem;
+    height: 1px;
+
+    margin-top: 2rem;
+    margin-bottom: 1rem;
+}
+
+.arrow-down {
+    display: flex;
+    align-items: center;
+
+    margin-top: 1.5rem;
+}
+
+.intro-text strong {
+    font-size: 1.5rem;
+    margin-right: 0.5rem;
+}
+
+.form-box {
+    width: 28.75rem;
+    height: 28.125rem;
+    background: var(--white);
+
+    margin-top: 2rem;
+
+    border-radius: 20px;
+
+    box-shadow: 0px 12px 17px rgba(0, 0, 0, 0.14), 0px 5px 22px rgba(0, 0, 0, 0.12), 0px 7px 8px rgba(0, 0, 0, 0.2);
+}
+
+.form-box p {
+    max-width: 21.25rem;
+
+    font-size: 1.5rem;
+    text-align: center;
+
+    margin: 4rem auto 2.5rem auto;
+}
+
+.form-box input {
+    display: block;
+    width: 21.25rem;
+    height: 2.5rem;
+
+    margin: 0 auto 1rem auto;
+}
+
+.form-box button {
+    margin: 1rem 3.75rem 0 3.75rem;
+}
+
+.svg-onda {
+    width: 100%;
+    margin-top: -8.75rem;
+}
