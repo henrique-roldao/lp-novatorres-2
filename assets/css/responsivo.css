@@ -63,8 +63,8 @@
     }
 
     .detail-img {
-        width: 20rem;
-        height: 12.375rem;
+        width: 100%;
+        height: 198px;
     }
 
     .arrow-down {
