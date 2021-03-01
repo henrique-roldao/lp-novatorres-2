@@ -62,6 +62,11 @@
         margin-top: 4rem;
     }
 
+    .detail-img {
+        width: 20rem;
+        height: 12.375rem;
+    }
+
     .arrow-down {
         justify-content: center;
         margin-top: 3rem;
