@@ -72,3 +72,14 @@ a {
   :-moz-placeholder { /* Firefox 18- */
     padding: 10px;
   }
+
+  /* Anti spam */
+.nao-aparece {
+    visibility: hidden;
+    position: absolute;
+    height: 0px;    
+}
+
+html {
+    scroll-behavior: smooth;
+  }
